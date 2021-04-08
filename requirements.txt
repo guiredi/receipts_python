@@ -1,0 +1,21 @@
+# app
+sqlalchemy
+flask
+psycopg2-binary
+redis
+python-dotenv==0.15.0
+Flask-SQLAlchemy==2.5.1
+uWSGI
+flask-migrate==2.5.2
+flask-script==2.0.6
+Flask-Cors==3.0.8
+celery[sqs]==5.0.3
+SQLAlchemy-Utils==0.33.11
+
+# dev/tests
+pytest
+pytest-icdiff
+mypy
+pylint
+requests
+tenacity
